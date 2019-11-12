@@ -1,0 +1,23 @@
+
+.logo{
+    margin: auto;
+    
+}
+#aaa{
+    background-color: aliceblue;
+}
+#lee{
+    
+    background-image: url('acme/arka.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    
+}
+label{
+    font-size: 20px;
+    color: darkorange;
+}
+
